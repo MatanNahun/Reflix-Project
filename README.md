@@ -11,4 +11,4 @@ React
 JS
 HTML
 CSS
-![image](https://user-images.githubusercontent.com/70105078/201467070-6a03d373-4983-42a2-9571-cf634ac75d06.png)
+![image](https://user-images.githubusercontent.com/70105078/201467170-4c21ac26-dff9-440d-8aec-540238db83f4.png)
