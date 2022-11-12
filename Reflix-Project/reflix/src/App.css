@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-image: url(https://wallpapertag.com/wallpaper/full/c/7/3/564392-most-popular-fantasy-nature-wallpaper-1920x1080.jpg);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#main-links > a {
+  display: flex;
+  margin: 10px;
+  color: #34495e;
+  text-shadow: -1px -1px 0 #ecf0f1, 1px -1px 0 #ecf0f1, -1px 1px 0 #ecf0f1,
+    1px 1px 0 #ecf0f1;
+  text-align: left;
+}
+
+* {
+  text-decoration: none;
+  font-family: "Cinzel Decorative";
+}

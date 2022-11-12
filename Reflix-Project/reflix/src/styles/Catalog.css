@@ -1,0 +1,33 @@
+#catalog {
+  background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Theater_Background.jpg?m=1414595400);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+#movies-catalog-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#movies-rented-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+* {
+  text-decoration: none;
+  font-family: "Cinzel Decorative";
+}
+
+.budget {
+  margin: 10px;
+}

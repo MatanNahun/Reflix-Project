@@ -1,0 +1,17 @@
+div.movie-card {
+  background-color: rgb(0 0 0 / 54%);
+  margin: 2%;
+}
+
+div.movie-card:hover {
+  color: white;
+  background-color: black;
+}
+
+* {
+  text-decoration: none;
+  font-family: "Cinzel Decorative";
+  text-shadow: -1px -1px 0 #ecf0f1, 1px -1px 0 #ecf0f1, -1px 1px 0 #ecf0f1,
+    1px 1px 0 #ecf0f1;
+  color: #34495e;
+}
