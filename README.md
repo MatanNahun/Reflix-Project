@@ -17,7 +17,7 @@ then rent your movies you want:
 and finally you can see a descuption of every movir in the catalog so you can take your decision carfully:
 ![image](https://user-images.githubusercontent.com/70105078/201468159-e2431557-54be-4fe3-a44b-c600d575f925.png)
 
-Feutures:
+# Feutures:
 - renting movies from catalog and returning them back
 - Search bar to display the right movies in catalog.
 - Budget-  3$ for any movie you rent, and you get them back after giving them back. you cant rent when you cant aford the movie.
