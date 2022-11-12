@@ -4,7 +4,8 @@
 # Running Instructions
 1. go to reflix directory
 2. mpm install
-3.npm start
+3. npm start
+
 
 # Decription
 first choose your user:
