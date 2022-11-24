@@ -30,8 +30,7 @@ and finally you can see a descuption of every movir in the catalog so you can ta
 ![image](https://user-images.githubusercontent.com/70105078/201467796-8d87363e-3c9e-48d0-b69e-11f93563a45c.png)
 ![image](https://user-images.githubusercontent.com/70105078/201467810-3414f503-7749-48db-b42d-c8cda3bfa6e1.png)
 
-# Data Base
-<img width="275" alt="dbimg" src="https://user-images.githubusercontent.com/70105078/203827861-6d24970e-b087-46eb-8455-50110aad8f76.png">
+
 
 
 
